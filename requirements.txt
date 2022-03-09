@@ -1,0 +1,9 @@
+numpy
+pillow
+pandas
+natsort
+requests
+selenium
+opencv-python
+fake_useragent
+webdriver-manager
